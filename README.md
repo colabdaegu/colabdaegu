@@ -38,7 +38,7 @@
 
 ## 🌐 Connect with Me
 <p align="center"> 
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:colab.daegu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
   <a href="https://nobeoka.tistory.com/">
