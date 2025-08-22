@@ -6,13 +6,11 @@
 
 ## 🚀 Tech Stack
 <p align="center"> 
-  <!-- 언어 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 <p align="center"> 
-  <!-- 프레임워크 & 라이브러리 -->
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -32,9 +30,9 @@
 
 ## 📌 Featured Projects
 ✨ [StockPIPApp-Project](https://github.com/colabdaegu/StockPIPApp-Project) - JavaFX 기반 주식 정보 제공 애플리케이션  
-✨ [Liverary-Unreal-Engine-Project](https://github.com/colabdaegu/Liverary-Unreal-Engine-Project) - 언리얼엔진4 기반 라이브러리 RPG 게임 개발  
+✨ [Liverary-Unreal-Engine-Project](https://github.com/colabdaegu/Liverary-Unreal-Engine-Project) - 언리얼엔진4 기반 TCG 기반 횡스크롤 RPG 게임 개발  
 
-👉 더 많은 프로젝트는 [여기에서 확인하기](https://github.com/colabdaegu?tab=repositories)
+👉 더 많은 개발 흔적은 [여기에서 확인하기](https://github.com/colabdaegu?tab=repositories)
 
 ---
 
@@ -49,7 +47,6 @@
   <a href="https://github.com/colabdaegu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <!-- 나중에 다른 SNS나 사이트 추가 가능 -->
 </p>
 
 ---
