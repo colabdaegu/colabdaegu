@@ -3,16 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Kim%20HyeonSoo's%20Github%20🧮&fontSize=45&animation=fadeIn&fontAlignY=40" />
 </p>
 
-# 👨‍💻 김현수 (Kim HyeonSoo)
-
-안녕하세요!  
-저는 **Java, Python, C**를 기반으로 다양한 프로젝트를 만들어가는 개발자입니다.  
-새로운 기술을 배우고, 직접 프로젝트로 구현하는 과정을 좋아합니다 🚀  
-
-> *"코드는 세상을 바꾸는 또 하나의 언어다."*  
-
----
-
 ## 📌 About Me
 - 🔭 현재 작업 중: **StockPIPApp (주식 정보 관리 프로젝트)**  
 - 🌱 학습 중: 자료구조 & 알고리즘, 웹 백엔드(Spring), 게임 개발(Unity/Unreal)  
