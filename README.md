@@ -4,12 +4,6 @@
 
 ---
 
-## 👋 Welcome / 환영합니다!
-안녕하세요! 저는 **김현수(Kim HyeonSoo)** 입니다.  
-현재 다양한 프로젝트와 공부를 진행하며 기록을 남기고 있습니다.
-
----
-
 ## 🚀 Tech Stack
 <p align="center"> 
   <!-- 언어 -->
@@ -36,7 +30,7 @@
 
 ---
 
-## 📌 Featured Projects / 주요 프로젝트
+## 📌 Featured Projects
 ✨ [StockPIPApp-Project](https://github.com/colabdaegu/StockPIPApp-Project) - JavaFX 기반 주식 정보 제공 애플리케이션  
 ✨ [Liverary-Unreal-Engine-Project](https://github.com/colabdaegu/Liverary-Unreal-Engine-Project) - 언리얼엔진4 기반 라이브러리 RPG 게임 개발  
 
@@ -49,7 +43,7 @@
   <a href="mailto:your_email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
-  <a href="https://colabdaegu.tistory.com/">
+  <a href="https://nobeoka.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a> 
   <a href="https://github.com/colabdaegu">
