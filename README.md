@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Kim%20HyeonSoo's%20Github%20🧮&fontSize=45&animation=fadeIn&fontAlignY=40" /> 
 </p>
 
----
+
 
 ## 🚀 Tech Stack
 <p align="center"> 
@@ -49,7 +49,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/> 
