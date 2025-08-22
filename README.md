@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Kim HyeonSoo  
 
-<!--
-**colabdaegu/colabdaegu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate developer from Korea, interested in **Java, Python, and C**.  
+✍️ I share my thoughts and projects on [Tistory Blog](https://nobeoka.tistory.com/).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on: **StockPIPApp Project**
+- 🌱 Learning: Data structures, algorithms, and modern web technologies
+- 🎯 Goal: To become a full-stack developer who builds useful and creative apps
+- ⚡ Fun fact: I love solving tricky bugs at 3AM 😅
+
+---
+
+## 🛠 Tech Stack
+- **Languages**: Java, Python, C, JavaScript
+- **Frameworks & Tools**: Spring, Node.js, Git, GitHub
+- **IDE**: IntelliJ IDEA, VS Code
+
+---
+
+## 📊 GitHub Stats
+![HyeonSoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=colabdaegu&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colabdaegu&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect with Me
+- 📝 Blog: [nobeoka.tistory.com](https://nobeoka.tistory.com/)
+- 📧 Email: colab.daegu@gmail.com 
+
+---
+⭐️ From [colabdaegu](https://github.com/colabdaegu)
