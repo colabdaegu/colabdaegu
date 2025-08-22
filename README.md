@@ -27,11 +27,11 @@
 
 ---
 
-## 🔥 GitHub Streak Stats (연속)
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=colabdaegu&theme=dark&hide_border=true"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=colabdaegu&show_icons=true&theme=dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colabdaegu&layout=compact&theme=dark" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=colabdaegu&theme=dark&hide_border=true" height="165"/>
 </p>
 
 ---
