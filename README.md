@@ -19,6 +19,20 @@
 
 ---
 
+## 📜 Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/정보처리기사-2025.06.13 취득-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLD-2025.04.04 취득-4169E1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSTS-2025.07.26 취득-DAA520?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ISTQB CTFL-2025.08.21 취득-B22222?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OA Master-555555?style=for-the-badge&labelColor=555555&color=555555"/>
+  <img src="https://img.shields.io/badge/GTQ 2급-555555?style=for-the-badge&labelColor=555555&color=555555"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colabdaegu&layout=compact&theme=dark" height="165"/>
