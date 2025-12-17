@@ -43,7 +43,8 @@
 ---
 
 ## 📌 Featured Projects
-✨ [StockPIPApp-Project](https://github.com/colabdaegu/StockPIP) - JavaFX 기반 주식 정보 간소화 애플리케이션  
+✨ [StockPIPApp-Project](https://github.com/colabdaegu/StockPIP) - JavaFX 기반 주식 정보 초경량 애플리케이션  
+✨ [StockPIPApp-Project](https://github.com/colabdaegu/OpenSourceSW-Project) - WebXR과 ChatBot을 결합한 웹기반 대화형 증강 현실 프로그램  
 ✨ [Liverary-Unreal-Engine-Project](https://github.com/colabdaegu/Liverary-Unreal-Engine-Project) - 언리얼엔진 기반 TCG + 횡스크롤 RPG 게임 개발  
 
 👉 더 많은 개발 흔적은 [여기에서 확인하기](https://github.com/colabdaegu?tab=repositories)
