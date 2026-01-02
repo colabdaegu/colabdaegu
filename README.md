@@ -35,9 +35,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colabdaegu&layout=compact&theme=dark&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=colabdaegu&show_icons=true&theme=dark&cache_seconds=86400" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=colabdaegu&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colabdaegu&amp;layout=compact&amp;theme=dark&amp;cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=colabdaegu&amp;show_icons=true&amp;theme=dark&amp;cache_seconds=86400" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=colabdaegu&amp;theme=dark&amp;hide_border=true" height="165"/>
 </p>
 
 ---
